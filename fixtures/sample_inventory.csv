@@ -1,0 +1,27 @@
+# SAMPLE DATA: every quantity and cost figure in this file is invented for demonstration.
+title,issue,publisher,year,grade,quantity,cost_basis
+X-Men,1,Marvel,1963,8.5,1,850.00
+Amazing Spider-Man,129,Marvel,1974,8.0,2,300.00
+Amazing Spider-Man,300,Marvel,1988,9.6,3,120.00
+Fantastic Four,48,Marvel,1966,6.5,1,400.00
+Incredible Hulk,181,Marvel,1974,7.5,1,500.00
+Avengers,4,Marvel,1964,6.0,1,350.00
+Batman,357,DC,1983,5.5,2,60.00
+Detective Comics,583,DC,1988,9.4,2,45.00
+Daredevil,1,Marvel,1964,5.0,1,700.00
+Iron Man,1,Marvel,1968,7.0,1,180.00
+Captain America,100,Marvel,1968,6.5,1,90.00
+Silver Surfer,1,Marvel,1968,8.0,2,110.00
+Thor,165,Marvel,1969,5.5,4,25.00
+Uncanny X-Men,266,Marvel,1990,9.2,2,80.00
+New Mutants,98,Marvel,1991,9.0,3,55.00
+Spawn,1,Image,1992,9.6,5,18.00
+Walking Dead,1,Image,2003,9.2,1,350.00
+Saga,1,Image,2012,9.4,2,40.00
+Sandman,1,DC,1989,8.8,2,35.00
+Teenage Mutant Ninja Turtles,1,Mirage,1984,4.5,1,900.00
+Ultimate Fallout,4,Marvel,2011,9.8,1,150.00
+Eternals,1,Marvel,1976,8.5,6,12.00
+Black Panther,1,Marvel,1977,9.0,2,60.00
+Ms. Marvel,1,Marvel,1977,8.0,3,30.00
+Bone,7,Cartoon Books,1992,5.5,12,4.00
